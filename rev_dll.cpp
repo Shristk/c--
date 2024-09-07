@@ -14,6 +14,7 @@ class Node{
         this->next=NULL;
     }
 };
+//new linked list
     class linkedlist{
         public:
         Node *head;
